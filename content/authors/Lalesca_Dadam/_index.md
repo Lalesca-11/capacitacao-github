@@ -3,10 +3,11 @@ role: Lalesca Dadam Gomes
 weight: 19
 email: "glalescadadam@email.com"
 interests: 
--melhoramento genético
+- melhoramento genético
 - biotecnologia
 - pesquisa
-   Estatística aplicada para agronomia
+- Estatística aplicada para agronomia
+  
 organizations:
 - name: UFSC
   url: "https://ufsc.br/"
