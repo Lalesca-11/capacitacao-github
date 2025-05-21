@@ -23,7 +23,7 @@ social:
   
 - icon: researchgate
   icon_pack: ai
-  link:https://www.researchgate.net/profile/Lalesca-Gomes-2/
+  link: https://www.researchgate.net/profile/Lalesca-Gomes-2/
   
 - icon: github
   icon_pack: fab
